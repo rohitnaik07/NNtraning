@@ -22,12 +22,7 @@ public class OverridingDemo {
 		SuperClass sub2_3 =new SubClass1();
 		System.out.println(sub2_3.toString());
 
-		SubClass1 sub =new SubClass1();
-
-		
-		
-		
-		
+		//SubClass1 sub =new SubClass1();
 	}
 
 }
